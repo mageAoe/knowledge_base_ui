@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const i=JSON.parse('{"title":"原型和原型链是什么","description":"","frontmatter":{},"headers":[],"relativePath":"blog/2023/5/15/six.md"}'),p={name:"blog/2023/5/15/six.md"},o=l("",5),e=[o];function c(t,r,y,D,F,A){return a(),n("div",null,e)}const b=s(p,[["render",c]]);export{i as __pageData,b as default};

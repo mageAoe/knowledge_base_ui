@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as e}from"./chunks/framework.41379913.js";const C=JSON.parse('{"title":"mongoDB","description":"","frontmatter":{},"headers":[],"relativePath":"framework/mongoDb/index.md"}'),l={name:"framework/mongoDb/index.md"},p=e("",144),t=[p];function o(r,c,i,u,b,d){return a(),n("div",null,t)}const A=s(l,[["render",o]]);export{C as __pageData,A as default};

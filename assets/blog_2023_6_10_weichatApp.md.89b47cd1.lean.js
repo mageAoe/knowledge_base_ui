@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,O as o}from"./chunks/framework.41379913.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/2023/6/10/weichatApp.md"}'),p={name:"blog/2023/6/10/weichatApp.md"},n=o("",4),r=[n];function s(c,i,l,_,d,h){return t(),e("div",null,r)}const f=a(p,[["render",s]]);export{b as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,O as l}from"./chunks/framework.41379913.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/quickstart.md"}'),p={name:"guild/quickstart.md"},o=l("",5),t=[o];function e(c,r,D,F,y,i){return n(),a("div",null,t)}const A=s(p,[["render",e]]);export{C as __pageData,A as default};

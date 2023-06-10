@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const A=JSON.parse('{"title":"高级函数","description":"","frontmatter":{},"headers":[],"relativePath":"func/senior.md"}'),p={name:"func/senior.md"},o=l("",27),e=[o];function r(t,c,y,F,D,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

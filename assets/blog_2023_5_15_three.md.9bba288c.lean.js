@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as e,O as a}from"./chunks/framework.41379913.js";const F=JSON.parse('{"title":"线上预览word、pdf","description":"","frontmatter":{},"headers":[],"relativePath":"blog/2023/5/15/three.md"}'),t={name:"blog/2023/5/15/three.md"},p=a("",21),n=[p];function l(c,i,d,r,h,u){return e(),s("div",null,n)}const m=o(t,[["render",l]]);export{F as __pageData,m as default};

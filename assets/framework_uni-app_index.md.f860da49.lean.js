@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,O as l}from"./chunks/framework.41379913.js";const A=JSON.parse('{"title":"uni-app","description":"","frontmatter":{},"headers":[],"relativePath":"framework/uni-app/index.md"}'),o={name:"framework/uni-app/index.md"},p=l("",138),e=[p];function t(c,r,D,F,i,y){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};
