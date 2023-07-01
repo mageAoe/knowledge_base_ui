@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const A=JSON.parse('{"title":"十五. Mobx","description":"","frontmatter":{},"headers":[],"relativePath":"framework/react/Mobx.md"}'),p={name:"framework/react/Mobx.md"},o=l("",42),e=[o];function r(c,t,D,y,F,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

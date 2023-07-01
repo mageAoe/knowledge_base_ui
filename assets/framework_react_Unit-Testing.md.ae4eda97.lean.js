@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const C=JSON.parse('{"title":"单元测试","description":"","frontmatter":{},"headers":[],"relativePath":"framework/react/Unit-Testing.md"}'),p={name:"framework/react/Unit-Testing.md"},e=l("",7),o=[e];function t(r,c,y,F,i,D){return a(),n("div",null,o)}const m=s(p,[["render",t]]);export{C as __pageData,m as default};
