@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const A=JSON.parse('{"title":"普通函数","description":"","frontmatter":{},"headers":[],"relativePath":"func/ordinary.md"}'),p={name:"func/ordinary.md"},o=l("",30),e=[o];function r(t,c,F,y,D,i){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

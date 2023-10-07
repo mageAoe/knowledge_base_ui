@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as l}from"./chunks/framework.41379913.js";const u=JSON.parse('{"title":"ES6 ~ 至今","description":"","frontmatter":{},"headers":[],"relativePath":"framework/javascript/es6.md"}'),e={name:"framework/javascript/es6.md"},p=l("",8),o=[p];function t(r,c,i,D,d,y){return n(),a("div",null,o)}const A=s(e,[["render",t]]);export{u as __pageData,A as default};

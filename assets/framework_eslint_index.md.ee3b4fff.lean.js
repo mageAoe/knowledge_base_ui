@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"framework/eslint/index.md"}'),o={name:"framework/eslint/index.md"},p=l("",5),e=[p];function t(r,c,D,F,i,u){return a(),n("div",null,e)}const C=s(o,[["render",t]]);export{d as __pageData,C as default};
