@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as s,O as t}from"./chunks/framework.41379913.js";const u=JSON.parse('{"title":"这里是各种框架","description":"","frontmatter":{},"headers":[],"relativePath":"framework/index.md"}'),n={name:"framework/index.md"},r=t("",2),o=[r];function i(c,l,d,_,p,m){return s(),a("div",null,o)}const f=e(n,[["render",i]]);export{u as __pageData,f as default};
