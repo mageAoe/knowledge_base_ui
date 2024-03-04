@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{"outline":[2,3]},"headers":[],"relativePath":"flutter/AnimatedList.md"}'),p={name:"flutter/AnimatedList.md"},e=l("",15),o=[e];function t(r,c,A,C,y,i){return a(),n("div",null,o)}const b=s(p,[["render",t]]);export{F as __pageData,b as default};

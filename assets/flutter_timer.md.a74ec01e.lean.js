@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,O as l}from"./chunks/framework.41379913.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{"outline":[2,3]},"headers":[],"relativePath":"flutter/timer.md"}'),p={name:"flutter/timer.md"},o=l("",11),e=[o];function r(c,t,C,A,D,y){return a(),n("div",null,e)}const b=s(p,[["render",r]]);export{i as __pageData,b as default};
